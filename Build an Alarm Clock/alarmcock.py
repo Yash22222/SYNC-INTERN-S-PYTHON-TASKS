@@ -30,7 +30,7 @@ def alarm():
             winsound.PlaySound("Alarm.wav", winsound.SND_ASYNC)  # are vedya starts
 
 
-# Add Labels, Frame, Button, Option menus
+# Adding Tasks Name, Author Name etc.
 Label(root, text="SYNC INTERN's Python TASK-1", font="Helvetica 30 bold", fg="blue").pack(pady=30)
 Label(root, text="Alarm Clock By Nilay Hangarge", font="Helvetica 30 bold", fg="green").pack(pady=30)
 Label(root, text="ALARM CLOCK", font="Helvetica 30 bold", fg="orange").pack(pady=30)
@@ -68,5 +68,4 @@ secs.pack(side=LEFT)
 
 Button(root, text="CLICK TO SET", font="Helvetica 30 bold", command=Threading).pack(pady=30)
 
-# Execute Tkinter
-root.mainloop()
+root.mainloop() # Final Execution
