@@ -1,0 +1,11 @@
+Before Excuting This Code Must Read 
+
+In My Python Code Line No 7, Do not add your Original Gmail Account Password Beacuse of Privacy Issue. Instead, Follow This Steps
+1) Go to Manage your google Accounts 
+2) Go to Security & Enable to factor authentication
+3) after that Search App Password 
+4) Click on Select App And Choose Other
+5) Write any custom name whatever you want and generate 
+6) Now copy generated password and Paste it on code.
+One more and IMP
+7) While Uploading Your code on Any Random Platform (Ex. GitHUb) Change Email and password Arguments.
